@@ -4,6 +4,8 @@ Hey developers! Today we're diving into setting up a fantastic project that show
 
 ## What We'll Build
 
+![Prisma Logo](https://raw.githubusercontent.com/prisma/presskit/main/Assets/Preview-Prisma-DarkLogo.png)
+
 We're setting up a project that demonstrates:
 * Connection pooling with Prisma Accelerate
 * Database queries using Prisma ORM

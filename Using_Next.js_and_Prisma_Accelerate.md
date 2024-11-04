@@ -101,7 +101,6 @@ This is an interactive database explorer that allows you to view and edit your d
 
 Watch the video below to see how to use Prisma Studio.
 
-<video src="[studio.mov](https://youtu.be/qgZblsIxkps)" width="520" height="340" controls></video>
 [![Prisma Studio](https://img.youtube.com/vi/qgZblsIxkps/0.jpg)](https://www.youtube.com/watch?v=qgZblsIxkps)
 
 

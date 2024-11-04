@@ -101,7 +101,9 @@ This is an interactive database explorer that allows you to view and edit your d
 
 Watch the video below to see how to use Prisma Studio.
 
-<video src="studio.mov" width="520" height="340" controls></video>
+<video src="[studio.mov](https://youtu.be/qgZblsIxkps)" width="520" height="340" controls></video>
+[![Prisma Studio](https://img.youtube.com/vi/qgZblsIxkps/0.jpg)](https://www.youtube.com/watch?v=qgZblsIxkps)
+
 
 ## What's Next?
 
@@ -120,7 +122,7 @@ You'll also be able to track how much of your data is served through cache and h
 
 ## Conclusion
 
-This setup gives you a solid foundation for building modern database applications with Prisma. The sample code contained in (the article's repository)[/Prisma_Tau/toptimize] will include some playful attempts at building up more queries to explore the combination of ORM capabilities, connection pooling, and real-time events. 
+This setup gives you a solid foundation for building modern database applications with Prisma. The sample code contained in [the article's repository](https://github.com/rusiqe/Prisma_Tau/tree/main) will include some playful attempts at building up more queries to explore the combination of ORM capabilities, connection pooling, and real-time events. 
 
 Here's hoping it opens up endless possibilities for your projects.
 

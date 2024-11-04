@@ -19,7 +19,7 @@ Using prisma optimize analyze, you’ll get a list of your top slowest queries a
 
 ## 6/8 How it Works Internally
 Prisma Optimize uses query profiling and caching algorithms to analyze query complexity, connection pooling, and indexes. It then gives actionable recommendations based on these findings to optimize your database usage efficiently. #HowItWorks
-<video src="https://youtu.be/ChG41YpA9z4" width="520" height="340" controls></video>
+[![Prisma Optimize](https://img.youtube.com/vi/ChG41YpA9z4/0.jpg)](https://www.youtube.com/watch?v=ChG41YpA9z4)
 
 
 ## 7/8 Sample Projects Using Prisma Optimize
